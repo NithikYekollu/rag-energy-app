@@ -1,0 +1,21 @@
+/* src/styles/eco-theme.css */
+@keyframes pulse {
+    0%, 100% { opacity: 1; }
+    50% { opacity: 0.5; }
+  }
+  
+  .eco-gradient {
+    background: linear-gradient(135deg, #34d399 0%, #059669 100%);
+  }
+  
+  .message-enter {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+  
+  .message-enter-active {
+    opacity: 1;
+    transform: translateY(0);
+    transition: opacity 300ms, transform 300ms;
+  }
+  

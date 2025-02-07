@@ -1,0 +1,29 @@
+/* .chat-header {
+  display: flex;
+  align-items: center;
+  padding: 12px;
+  gap: 10px;
+  background-color: #f0f4f8;
+  border-bottom: 1px solid #e0e0e0;
+}
+
+.cs-avatar {
+  border-radius: 50%;
+  width: 48px;
+  height: 48px;
+  object-fit: cover;
+}
+
+.bg-gradient-to-br {
+  background: linear-gradient(to bottom right, #d9f9c7, #c3e9ff);
+}
+
+details summary {
+  font-weight: 600;
+  color: #333;
+}
+
+details ul {
+  margin-top: 6px;
+  color: #555;
+} */
