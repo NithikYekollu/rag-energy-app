@@ -34,7 +34,7 @@ function ChatPanel({ pendingQuestion, clearPendingQuestion }) {
     setLoading(true);
 
     try {
-      const response = await fetch('http://localhost:3001/conversation', {
+      const response = await fetch('https://rag-energy-app-iauw.vercel.app/conversation', {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify({
