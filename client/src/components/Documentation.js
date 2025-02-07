@@ -15,7 +15,7 @@ function Documentation() {
       </ul>
 
       <p className="text-gray-700">
-        For more details on setup, visit our <a href="https://github.com" className="text-blue-600 underline" target="_blank" rel="noopener noreferrer">GitHub repository</a>.
+        For more details on setup, visit our <a href="https://github.com/NithikYekollu/rag-energy-app" className="text-blue-600 underline" target="_blank" rel="noopener noreferrer">GitHub repository</a>.
       </p>
 
       <h3 className="text-xl font-semibold text-gray-800 mt-4">Overview</h3>
